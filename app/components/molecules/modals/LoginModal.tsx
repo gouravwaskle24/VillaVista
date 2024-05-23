@@ -89,7 +89,7 @@ const LoginModal = () => {
       text-neutral-500 text-center mt-4 font-light"
       >
         <p>
-          First time using StayVue?
+          First time using VillaVista?
           <span
             onClick={onToggle}
             className="

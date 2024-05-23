@@ -13,7 +13,7 @@ const Logo: React.FC<IlogoProps> = ({ color }) => {
       className={`font-bold text-2xl italic logo cursor-pointer text-${color}`}
       onClick={() => router.push("/")}
     >
-      StayVue
+      VillaVista
     </p>
   );
 };
